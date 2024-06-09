@@ -1,6 +1,6 @@
 ## Hola yo soy Jonatan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hola yo soy un ingeniero de sistemas en formación, la mayor parte de mi tiempo lo dedico a aprender cosas nuevas.
+Hola yo soy un ingeniero de sistemas de septimo en formación, la mayor parte de mi tiempo lo dedico a aprender cosas nuevas.
 Aparte de estudiar la carrera también soy musico  🎵 , me encanta la música porque con ella también podemos crear  cosas maravillosas, los instrumentos que toco son la guitarra 🎸 y el piano 🎹, no soy muy bueno tocando, pero con practica y perseverancia podemos lograr cualquier cosa.
 También gracias a mi curiosidad, me enamore de la ciencia, más específicamente de la física, me encantan los temas relacionados con el universo, la relatividad y la teoría cuántica, no niego que me gusten las matemáticas, pero tampoco puedo decir que las domino, pero trato de entenderlas y aplicarlas en los programas que hago. 
 Mi sueño es poder aplicar física y la matemática en proyectos de informática, creando algoritmos y funcionalidades que permitan optimizar o mejorar tareas y quien sabe talvez crear algo significativo para la ciencia y la proyección tecnológica. 
