@@ -38,7 +38,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 
 ---
 
-### 🖌 Frameworks
+### 🛠️ Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -47,7 +47,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 
 ---
 
-### 🖌️ Bases de datos
+### 🐱 Bases de datos
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -55,7 +55,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 
 ---
 
-### 🖌️ Framework de CSS
+### ⚡ Framework de CSS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -63,7 +63,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 
 ---
 
-### ✏️ Editor Preferido
+### 💻 Editor Preferido
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
