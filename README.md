@@ -98,7 +98,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ## 🔝 Mis lenguajes de programación más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzeyl&theme=blue-green" alt="Lenguajes más utilizados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzeyl&theme=blue-green&hide=html,css&langs_count=10" alt="Lenguajes más utilizados"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ## 🏆 Mis trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azzeyl&theme=onedark" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Azzeyl&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
 </p>
 
 ---
