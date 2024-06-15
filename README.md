@@ -22,7 +22,6 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 - 🎶 Amo la música.
 - 🎹 Pieza favorita de piano: Chopin - Vals en La menor.
 - 🤔 Reducir los fenómenos naturales a leyes matemáticas y por ende a lenguaje máquina.
-- 📫 Puedes escribirme a: jonatancamilo0517@gmail.com
 
 ---
 
