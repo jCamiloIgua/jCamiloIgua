@@ -97,19 +97,21 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ## 🔝 Mis lenguajes de programación más utilizados
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jCamiloIgua&theme=blue-green&hide=html,css&langs_count=10" alt="Lenguajes más utilizados"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzeyl&theme=blue-green&hide=html,css&langs_count=10" alt="Lenguajes más utilizados"/>
 </p>
-
----
-
 ## 🏆 Mis trofeos de GitHub
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-profile-trophy.vercel.app/?username=jCamiloIgua&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Azzeyl&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
+>>>>>>> 663bd011c2d947ad18b1e136bbdbedb4f8c62261
 </p>
 
 ---
-
-
 
 
