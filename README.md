@@ -1,4 +1,4 @@
-## Hola, yo soy Jonatan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Jonatan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ¡Hola! Soy un ingeniero de sistemas en séptimo semestre en formación. Dedico la mayor parte de mi tiempo a aprender cosas nuevas. Además de estudiar la carrera, también soy músico 🎵. Me encanta la música porque con ella podemos crear cosas maravillosas. Los instrumentos que toco son la guitarra 🎸 y el piano 🎹. No soy muy bueno tocando, pero con práctica y perseverancia podemos lograr cualquier cosa.
 
