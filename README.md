@@ -22,6 +22,12 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 - 🤔 Reducir los fenómenos naturales a leyes matemáticas y por ende a lenguaje máquina.
 
 ---
+---
+## 🌐 Idiomas
+
+![Español](https://img.shields.io/badge/Español-Nativo-green?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-A1-blue?style=flat-square)
+---
 
 ### 🚀 Habilidades
 
