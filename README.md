@@ -1,5 +1,8 @@
 ## I'm Jonatan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+## <p align="center"><img src="https://github.com/jCamiloIgua/jCamiloIgua/blob/main/kurisu.gif" width="200px" alt="GIF">
+</p>
+
 ¡Hola! Soy un ingeniero de sistemas en octavo semestre en formación. Dedico la mayor parte de mi tiempo a aprender cosas nuevas. Además de estudiar la carrera, también soy músico 🎵. Me encanta la música porque con ella podemos crear cosas maravillosas. Los instrumentos que toco son la guitarra 🎸 y el piano 🎹. Con práctica y perseverancia podemos lograr cualquier cosa.
 
 Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la física. Me encantan los temas relacionados con el universo, la relatividad y la teoría cuántica. No niego que me gusten las matemáticas, pero tampoco puedo decir que las domino. Sin embargo, trato de entenderlas y aplicarlas en los programas que hago. Mi sueño es poder aplicar física y matemáticas en proyectos de informática, creando algoritmos y funcionalidades que permitan optimizar o mejorar tareas y crear algo significativo para la ciencia y la tecnología.
