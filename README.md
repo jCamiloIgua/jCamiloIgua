@@ -12,7 +12,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ### 📞 ¡Hablemos!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonatan-camilo-igua-contreras-08793020a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jonatan-camilo-igua-contreras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
