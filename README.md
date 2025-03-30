@@ -77,22 +77,6 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 
 ---
 
-### 🐧 Linux
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-</p>
-
----
-
-### 🎶 ¿Dónde escucho música?
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-</p>
-
----
-
 ## 📊 Mis estadísticas de GitHub
 
 <p align="center">
