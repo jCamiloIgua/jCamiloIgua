@@ -29,7 +29,7 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ## 🌐 Idiomas
 
 ![Español](https://img.shields.io/badge/Español-Nativo-green?style=flat-square)
-![Inglés](https://img.shields.io/badge/Inglés-A1-blue?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-A2-blue?style=flat-square)
 ---
 
 ### 🚀 Habilidades
