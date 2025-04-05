@@ -1,11 +1,12 @@
-## I'm Jonatan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## I'm Jonatan Camilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## <p align="center"><img src="https://github.com/jCamiloIgua/jCamiloIgua/blob/main/kurisu.gif" width="200px" alt="GIF">
 </p>
+¡Hola! Soy estudiante de ingenieria de sistemas de octavo semestre. Dedico la mayor parte de mi tiempo a aprender cosas nuevas e desarrollado paginas web con HTML5, CSS3 y JavaScript, utilizando frameworks como Bootstrap para el maquetado y diseño. Tambien he desarollado con Java y Python, aplicando principios de programación orientada a objetos, el patrón MVC, orquestadores y programación funcional.
 
-¡Hola! Soy un ingeniero de sistemas en octavo semestre en formación. Dedico la mayor parte de mi tiempo a aprender cosas nuevas. Además de estudiar la carrera, también soy músico 🎵. Me encanta la música porque con ella podemos crear cosas maravillosas. Los instrumentos que toco son la guitarra 🎸 y el piano 🎹. Con práctica y perseverancia podemos lograr cualquier cosa.
+Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL, así como conocimientos en bases de datos NoSQL, específicamente con MongoDB.
 
-Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la física. Me encantan los temas relacionados con el universo, la relatividad y la teoría cuántica. No niego que me gusten las matemáticas, pero tampoco puedo decir que las domino. Sin embargo, trato de entenderlas y aplicarlas en los programas que hago. Mi sueño es poder aplicar física y matemáticas en proyectos de informática, creando algoritmos y funcionalidades que permitan optimizar o mejorar tareas y crear algo significativo para la ciencia y la tecnología.
+Cuento con un nivel de inglés B1.1 en proceso  y habilidades en trabajo en equipo, gestión de proyectos y comunicación efectiva.
 
 ---
 
@@ -18,13 +19,13 @@ Gracias a mi curiosidad, me enamoré de la ciencia, más específicamente de la 
 ---
 
 ### 🔵 Sobre mí
-
-- ☕ No me gusta el café.
+- 📚 Me gusta aprender cosas nuevas
+- 💻 Amo la programación
+- 🧠 Soy bueno dirigiendo proyectos
+- 🤝 Me gusta trabajar en equipo
 - 🎶 Amo la música.
-- 🎹 Pieza favorita de piano: Chopin - Vals en La menor.
-- 🤔 Reducir los fenómenos naturales a leyes matemáticas y por ende a lenguaje máquina.
-
----
+- 🎹 Pieza favorita de piano es Chopin - Vals en La menor.
+  
 ---
 ## 🌐 Idiomas
 
