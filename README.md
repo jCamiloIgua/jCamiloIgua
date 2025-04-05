@@ -8,16 +8,6 @@ Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Ser
 
 Cuento con un nivel de inglés B1.1 en proceso  y habilidades en trabajo en equipo, gestión de proyectos y comunicación efectiva.
 
----
-
-### 📞 ¡Hablemos!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonatan-camilo-igua-contreras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
 ### 🔵 Sobre mí
 - 📚 Me gusta aprender cosas nuevas
 - 💻 Amo la programación
@@ -25,8 +15,17 @@ Cuento con un nivel de inglés B1.1 en proceso  y habilidades en trabajo en equi
 - 🤝 Me gusta trabajar en equipo
 - 🎶 Amo la música.
 - 🎹 Pieza favorita de piano es Chopin - Vals en La menor.
-  
+
 ---
+
+### 📞 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonatan-camilo-igua-contreras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
 ## 🌐 Idiomas
 
 ![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square)&nbsp;
