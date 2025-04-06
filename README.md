@@ -29,7 +29,7 @@ Cuento con un nivel de inglés B1.1 en proceso  y habilidades en trabajo en equi
 ## 🌐 Idiomas
 
 ![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square)&nbsp;
-![Inglés](https://img.shields.io/badge/Inglés-B1.1%20en%20proceso-blue?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-B1.2%20en%20proceso-blue?style=flat-square)
 
 ---
 
