@@ -1,6 +1,6 @@
 ## I'm Jonatan Camilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## <p align="center"><img src="https://github.com/jCamiloIgua/jCamiloIgua/blob/main/image3.png" width="200px" alt="GIF">
+## <p align="center"><img src="https://github.com/jCamiloIgua/jCamiloIgua/blob/main/image4.png" width="200px" alt="GIF">
 </p>
 ¡Hola! Soy estudiante de ingenieria de sistemas de octavo semestre. Dedico la mayor parte de mi tiempo a aprender cosas nuevas e desarrollado paginas web con HTML5, CSS3 y JavaScript, utilizando frameworks como Bootstrap para el maquetado y diseño. Tambien he desarollado con Java y Python, aplicando principios de programación orientada a objetos, el patrón MVC, orquestadores y programación funcional.
 
