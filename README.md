@@ -6,7 +6,7 @@
 
 Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL, así como conocimientos en bases de datos NoSQL, específicamente con MongoDB.
 
-Cuento con un nivel de inglés B1.1 en proceso  y habilidades en trabajo en equipo, gestión de proyectos y comunicación efectiva.
+Cuento con un nivel de inglés B1.2 en proceso  y habilidades en trabajo en equipo, gestión de proyectos y comunicación efectiva.
 
 ### 🔵 Sobre mí
 - 📚 Me gusta aprender cosas nuevas
