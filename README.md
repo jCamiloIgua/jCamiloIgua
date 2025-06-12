@@ -2,7 +2,7 @@
 
 ## <p align="center"><img src="https://github.com/jCamiloIgua/jCamiloIgua/blob/main/image4.png" width="200px" alt="GIF">
 </p>
-¡Hola! Soy estudiante de ingenieria de sistemas de octavo semestre. Dedico la mayor parte de mi tiempo a aprender cosas nuevas e desarrollado paginas web con HTML5, CSS3 y JavaScript, utilizando frameworks como Bootstrap para el maquetado y diseño. Tambien he desarollado con Java y Python, aplicando principios de programación orientada a objetos, el patrón MVC, orquestadores y programación funcional.
+¡Hola! Soy estudiante de ingenieria de sistemas de noveno semestre. Dedico la mayor parte de mi tiempo a aprender cosas nuevas e desarrollado paginas web con HTML5, CSS3 y JavaScript, utilizando frameworks como Bootstrap para el maquetado y diseño. Tambien he desarollado con Java y Python, aplicando principios de programación orientada a objetos, el patrón MVC, orquestadores y programación funcional.
 
 Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL, así como conocimientos en bases de datos NoSQL, específicamente con MongoDB.
 
@@ -43,14 +43,6 @@ Cuento con un nivel de inglés B1.4 en proceso  y habilidades en trabajo en equi
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
----
-
-### 🛠️ Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ---
