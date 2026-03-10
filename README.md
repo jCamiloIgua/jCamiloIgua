@@ -67,6 +67,6 @@ Cuento con un nivel de inglés B1 en proceso B2, me caracterizo por el aprendiza
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
+  <img src="https://img.shields.io/badge/MobaXterm-1A2B4C?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  
 ---
