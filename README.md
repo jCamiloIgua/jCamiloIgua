@@ -5,8 +5,6 @@ Estudiante de Ingeniería de Sistemas enfocado en administración de sistemas Li
 Interesado en tecnologías cloud, contenedores y automatización.
 
 ---
-¡Hola! Soy estudiante de ingeniería de Sistema y me apasiona aprender constantemente sobre tecnología, como programación e infraestructura.
-
 He desarrollado proyectos utilizando Java y Python, aplicando principios de programación orientada a objetos, patrón MVC y conceptos de programación funcional. Tengo experiencia creando aplicaciones web con HTML5, CSS3 y JavaScript, utilizando frameworks como Bootstrap para el diseño y maquetado.
 
 Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Server y PostgreSQL, así como conocimientos en bases de datos NoSQL, especialmente con MongoDB.
