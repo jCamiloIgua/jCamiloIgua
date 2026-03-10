@@ -13,15 +13,6 @@ Actualmente estoy interesado en el mundo de los sistemas linux, la infraestructu
 
 Cuento con un nivel de inglés B1 en proceso B2, me caracterizo por el aprendizaje constante, trabajo en equipo, gestión de proyectos y comunicación efectiva.
 
-### 🔵 Sobre mí
-- 📚 Me gusta aprender cosas nuevas
-- 💻 Amo la programación
-- ♦️ Linux y cloud mi objetivo
-- 🧠 Soy bueno dirigiendo proyectos
-- 🤝 Me gusta trabajar en equipo
-- 🎶 Amo la música.
-- 🎹 Pieza favorita de piano es Chopin - Vals en La menor.
-
 ---
 
 ## 🌐 Idiomas
