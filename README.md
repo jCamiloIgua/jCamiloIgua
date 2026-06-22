@@ -1,7 +1,7 @@
 ## I'm Jonatan Camilo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 🐧 Linux | ☸️ Kubernetes | 💻 Software Development  
 
-Estudiante de Ingeniería de Sistemas enfocado en administración de sistemas Linux, infraestructura y desarrollo de software.  
+Ingeniero de Sistemas enfocado en administración de sistemas Linux, infraestructura y desarrollo de software.  
 Interesado en tecnologías cloud, contenedores y automatización.
 
 ---
@@ -11,7 +11,7 @@ Tengo conocimientos en bases de datos relacionales como MySQL, Microsoft SQL Ser
 
 Actualmente estoy interesado en el mundo de los sistemas linux, la infraestructura y tecnologías relacionadas con contenedores y cloud.
 
-Cuento con un nivel de inglés B1 en proceso B2, me caracterizo por el aprendizaje constante, trabajo en equipo, gestión de proyectos y comunicación efectiva.
+Cuento con un nivel de inglés B2, me caracterizo por el aprendizaje constante, trabajo en equipo, gestión de proyectos y comunicación efectiva.
 
 ---
 
