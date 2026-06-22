@@ -18,7 +18,7 @@ Cuento con un nivel de inglés B2, me caracterizo por el aprendizaje constante, 
 ## 🌐 Idiomas
 
 ![Español](https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square)&nbsp;
-![Inglés](https://img.shields.io/badge/Inglés-B1-blue?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-B2-blue?style=flat-square)
 
 ---
 
